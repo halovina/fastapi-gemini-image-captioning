@@ -1,0 +1,3 @@
+pip install  "fastapi[standard]" google-generativeai python-dotenv Pillow
+
+GOOGLE_API_KEY="YOUR_GEMINI_API_KEY"
